@@ -1,4 +1,4 @@
-public class IfExample{
+public class age{
     public static void main(String[] args) {
         // defining an 'age' variable
         int age = 30;
